@@ -1,0 +1,10 @@
+dist
+coverage
+doc
+webpack.*.js
+
+app.js
+
+__tests__
+
+index.js
